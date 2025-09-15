@@ -15,4 +15,4 @@ Resolución de pantalla utilizada
 
 Nuevamente hackeando la compu en busca de ese aprobado (creo que aprendí mucho más en esta oportunidad, espero que se vea reflejado en mi código)
 
-<img width="1960" height="4440" alt="captura_pantalla_completa_florencia_somoza" src="https://github.com/user-attachments/assets/937b399e-b03f-49d5-9f0a-2ccab8110a80" />
+<img width="1960" height="4440" alt="captura_pantalla_completa_florencia_somoza" src="https://github.com/user-attachments/assets/7338bc14-34f4-4595-9e31-65448e2cb2f1"/>
